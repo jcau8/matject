@@ -36,12 +36,14 @@ I made this script so that users don't have to go through the hassle of replacin
 > **Non RenderDragon shaders (aka HAL) are not supported.**
 
 </br>
+</br>
 
 ## What's new in v3.4.0?
 * Happy New Year!
 * Many bug fixes and optimization.
 * [See full changelog](#changelog)
 
+</br>
 </br>
 
 ## Features
@@ -55,6 +57,7 @@ I made this script so that users don't have to go through the hassle of replacin
 * Many useful options in settings.
 * Auto detect Minecraft version changes and adjust according to that.
 
+</br>
 </br>
 
 ## Credits
@@ -77,6 +80,8 @@ People of [YSS](https://discord.gg/UJdvR6WBAe) and [Newb Community](https://faiz
 > Need help?  
 > Join [Newb Discord server](https://faizul726.github.io/newb-discord) and send message in `#newb-support`. I will be happy to assist you.
 
+</br>
+</br>
 </br>
 
 ## How to use?
@@ -104,6 +109,7 @@ For the pros: `git clone https://github.com/faizul726/matject.git`
 4. Select **[1] Dynamic Restore** or **[2] Full Restore** (full restore takes a bit more time).
 
 </br>
+</br>
 
 ## Known issues
 * Some terms may be a bit too technical. Suggestions are appreciated.
@@ -112,6 +118,7 @@ For the pros: `git clone https://github.com/faizul726/matject.git`
 * May not work properly if working paths contain space.
 * Antivirus may prevent IObit Unlocker from working. (e.g. AVG)
 
+</br>
 </br>
 
 ## FAQ
@@ -172,6 +179,9 @@ You can however show me that you care by making a donation. (copied from Magisk 
 Binance: <uid>
 USDT BEP20: <address>
 -->
+
+</br>
+</br>
 
 ## Changelog
 <!--TEMPLATE
